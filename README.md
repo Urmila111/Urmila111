@@ -9,12 +9,14 @@
 </a>
 
 <!-- Intro -->
+<p>
 <h2 align="center">
   <samp>
     👋 Hi there! Welcome to 
     <b><a target="_blank" href="https://www.linkedin.com/in/urmila-basnet/">Urmila Basnet</a>'s Profile</b>
   </samp>
 </h>
+  </p>
 </br>
 
 <p align="center">
