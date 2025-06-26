@@ -32,11 +32,10 @@
 </p>
 
 ---
-
-<h2 align="center">🧰 Technology Stack</h2>
+<h2 align="center">⚙️ Technology Stack</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,git,python&perline=10" />
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,git,python&perline=10" alt="Tech stack icons" />
   </a>
 </p>
 
