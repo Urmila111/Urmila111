@@ -16,6 +16,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Girl coding" width="320" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Female coder" width="320" />
+</p>
 
 
 
