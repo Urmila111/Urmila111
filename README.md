@@ -14,24 +14,9 @@
 </h3>
 
 <p align="center">
-  <!-- Animated coding laptop SVG -->
-  <svg width="250" height="150" viewBox="0 0 250 150" fill="none" xmlns="http://www.w3.org/2000/svg" style="margin-bottom: 10px;">
-    <rect x="15" y="30" width="220" height="100" rx="15" ry="15" stroke="#F700FF" stroke-width="4" fill="transparent"/>
-    <rect x="45" y="50" width="160" height="70" rx="8" ry="8" fill="#F700FF" opacity="0.2"/>
-    <line x1="50" y1="65" x2="200" y2="65" stroke="#F700FF" stroke-width="2" stroke-linecap="round">
-      <animate attributeName="x2" values="50;200;50" dur="3s" repeatCount="indefinite" />
-    </line>
-    <line x1="50" y1="85" x2="180" y2="85" stroke="#F700FF" stroke-width="2" stroke-linecap="round">
-      <animate attributeName="x2" values="50;180;50" dur="2.5s" repeatCount="indefinite" />
-    </line>
-    <line x1="50" y1="105" x2="160" y2="105" stroke="#F700FF" stroke-width="2" stroke-linecap="round">
-      <animate attributeName="x2" values="50;160;50" dur="2s" repeatCount="indefinite" />
-    </line>
-    <rect x="0" y="135" width="250" height="10" fill="#F700FF" opacity="0.1">
-      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="4s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=600&height=50&lines=Transforming+Code+Into+Impact...;Backend+%7C+Finance+%7C+Cybersecurity+%7C+AI" alt="Typing SVG" />
 </p>
+
 
 <!-- Socials -->
 <p align="center">
