@@ -1,65 +1,152 @@
-<p align="center">
-  <a href="https://github.com/Urmila111"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&width=435&lines=Backend+Developer;Finance+%26+Cybersecurity+Enthusiast;AI+%7C+Quant+Learner;Aspiring+Financial+Engineer" alt="Typing SVG" /></a>
-</p>
+import React, { useEffect, useState } from "react";
+import Typing from "react-typing-animation";
+import { FaLinkedin, FaTwitter, FaFacebook } from "react-icons/fa";
+import styles from "./ProfileReadme.module.css"; // CSS module styles (see below)
 
-<a href="https://komarev.com/ghpvc/?username=Urmila111">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=F700FF&style=flat" alt="Profile visitor count" />
-</a>
+// Utility function to fetch GitHub user data
+async function fetchGitHubStats(username) {
+  const res = await fetch(`https://api.github.com/users/${username}/repos`);
+  if (!res.ok) return null;
+  const repos = await res.json();
+  // Calculate total stars, forks etc if needed
+  const totalStars = repos.reduce((acc, repo) => acc + repo.stargazers_count, 0);
+  return { totalRepos: repos.length, totalStars };
+}
 
-<!-- Intro -->
-<h3 align="center">
-        <samp>&gt; Welcome to 
-                <b><a target="_blank" href="https://www.linkedin.com/in/urmila-basnet/">Urmila Basnet</a>'s Profile</b>
-        </samp>
-</h3>
+const socialLinks = [
+  {
+    href: "https://www.linkedin.com/in/urmila-basnet/",
+    icon: <FaLinkedin />,
+    color: "#0077B5",
+    label: "LinkedIn",
+  },
+  {
+    href: "https://twitter.com/_urmila_basnet",
+    icon: <FaTwitter />,
+    color: "#1DA1F2",
+    label: "Twitter",
+  },
+  {
+    href: "https://www.facebook.com/urmila.basnet.71",
+    icon: <FaFacebook />,
+    color: "#1877F2",
+    label: "Facebook",
+  },
+];
 
-<p align="center">
-  <img src="https://img.shields.io/badge/My%20Mission-Building%20powerful%20backend%20systems%20for%20social%20impact-purple?style=for-the-badge&logo=target" />
-</p>
+export default function ProfileReadme() {
+  const [githubStats, setGithubStats] = useState(null);
+  const [visitorCount, setVisitorCount] = useState(null);
+
+  useEffect(() => {
+    fetchGitHubStats("Urmila111").then(setGithubStats);
+
+    // Example visitor count fetch, replace with your actual API
+    // For demo, just simulate visitor count
+    setVisitorCount(2543);
+  }, []);
+
+  return (
+    <div className={styles.container}>
+
+      <div className={styles.typingSection}>
+        <a href="https://github.com/Urmila111" target="_blank" rel="noreferrer">
+          <Typing speed={60} loop>
+            <span>Backend Developer</span>
+            <Typing.Delay ms={1000} />
+            <Typing.Backspace count={18} />
+            <span>Finance & Cybersecurity Enthusiast</span>
+            <Typing.Delay ms={1000} />
+            <Typing.Backspace count={30} />
+            <span>AI | Quant Learner</span>
+            <Typing.Delay ms={1000} />
+            <Typing.Backspace count={14} />
+            <span>Aspiring Financial Engineer</span>
+            <Typing.Delay ms={2000} />
+            <Typing.Reset />
+          </Typing>
+        </a>
+      </div>
+
+      <div className={styles.visitorCount}>
+        <span>👀 Profile Visitors: </span>
+        <strong>{visitorCount !== null ? visitorCount.toLocaleString() : "Loading..."}</strong>
+      </div>
+
+      <h3 className={styles.welcome}>
+        Hello! I&apos;m <a href="https://www.linkedin.com/in/urmila-basnet/" target="_blank" rel="noreferrer">Urmila Basnet</a>, passionate about backend development, cybersecurity, finance, and AI.
+      </h3>
+
+      <div className={styles.musicLink}>
+        <a href="https://www.youtube.com/watch?v=DXCd7Moy3to&list=RDDXCd7Moy3to&start_radio=1" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" alt="Music Playlist" width={300} height={130} />
+        </a>
+      </div>
+
+      <div className={styles.socialIcons}>
+        {socialLinks.map(({ href, icon, color, label }) => (
+          <a
+            href={href}
+            key={label}
+            target="_blank"
+            rel="noreferrer"
+            className={styles.socialIcon}
+            style={{ backgroundColor: color }}
+            aria-label={label}
+          >
+            {icon}
+          </a>
+        ))}
+      </div>
+
+      <section className={styles.techStack}>
+        <h2>🧰 Tech Stack I Work With</h2>
+        <img
+          src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,vercel,git,linux,python,typescript,docker,figma,postgresql,tailwind&perline=10"
+          alt="Tech stack icons"
+        />
+      </section>
+
+      <section className={styles.githubStats}>
+        <h2>📊 GitHub Stats</h2>
+        {githubStats ? (
+          <>
+            <p>Total Public Repos: <strong>{githubStats.totalRepos}</strong></p>
+            <p>Total Stars: <strong>{githubStats.totalStars}</strong></p>
+            <img
+              src={`https://github-readme-streak-stats.herokuapp.com/?user=Urmila111&theme=radical&border=7F3FBF&background=0D1117`}
+              alt="GitHub Streak"
+              className={styles.streakImg}
+            />
+            <img
+              src={`https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urmila111&theme=radical`}
+              alt="GitHub Profile Summary"
+              className={styles.summaryImg}
+            />
+          </>
+        ) : (
+          <p>Loading stats...</p>
+        )}
+      </section>
+
+      <section className={styles.languageStats}>
+        <img
+          src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+          alt="Top Languages"
+          className={styles.langImg}
+        />
+      </section>
+
+      <section className={styles.activityGraph}>
+        <img
+          src="https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&custom_title=Urmila%20Basnet%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true"
+          alt="GitHub Activity Graph"
+          className={styles.activityImg}
+        />
+      </section>
+    </div>
+  );
+}
 
 
-<!-- Socials -->
-<p align="center">
- <a href="https://www.linkedin.com/in/urmila-basnet/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://twitter.com/_urmila_basnet" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.facebook.com/urmila.basnet.71" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&logoColor=white" />
- </a>
-</p>
-
----
-
-<h2 align="center">🧰 Technology Stack</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,vercel,git,linux,python,typescript,docker,figma,postgresql,tailwind&perline=10" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Urmila111">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmila111&theme=radical&border=7F3FBF&background=0D1117" alt="Urmila's GitHub streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Urmila111">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urmila111&theme=radical" alt="Urmila's GitHub Summary" />
-  </a>
-</p>
-
-<a>
-  <a href="https://github.com/Urmila111"><img alt="Urmila's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
-  <a href="https://github.com/Urmila111"><img alt="Urmila's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
-  <br/>
-</a>
-
-![Urmila's GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&custom_title=Urmila%20Basnet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-![](https://activity-graph.herokuapp.com/graph?username=Urmila111&custom_title=Urmila%27s%20Contribution%20Graph&theme=react-dark)
+  
