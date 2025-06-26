@@ -14,8 +14,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0d/13/8c/0d138cfa93d78b32ed2a0388b130b6a0.gif" alt="Girl working on laptop" width="280" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Girl coding" width="320" />
 </p>
+
 
 
 <!-- Socials -->
