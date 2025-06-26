@@ -53,10 +53,22 @@
   </a>
 </p>
 
-<a>
-  <a href="https://github.com/Urmila111"><img alt="Urmila's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
-  <a href="https://github.com/Urmila111"><img alt="Urmila's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%" /></a>
-  <br/>
-</a>
+<div align="center">
+
+  <a href="https://github.com/Urmila111">
+    <img 
+      alt="Urmila's GitHub Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&hide_rank=true&hide_title=false&theme=react&border_color=39FF14&bg_color=0D1117&title_color=00FFFF&icon_color=F8D866"
+      height="192px" width="49.5%" />
+  </a>
+
+  <a href="https://github.com/Urmila111">
+    <img 
+      alt="Urmila's Top Languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=39FF14&bg_color=0D1117&title_color=00FFFF&icon_color=F8D866"
+      height="192px" width="49.5%" />
+  </a>
+
+</div>
 
 ![Urmila's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&custom_title=Urmila%20Basnet's%20GitHub%20Activity&bg_color=0D1117&color=9F7AEA&line=9F7AEA&point=FBB6CE&area_color=6B46C1&title_color=E9D8FD&hide_border=true&area=true&hide_yearly_summary=false)
