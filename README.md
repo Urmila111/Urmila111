@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif" alt="Pixel girl coding" width="320" />
+  <img src="https://media.giphy.com/media/By0gLwbUO7U7o/giphy.gif" alt="Woman coding" width="320" />
 </p>
 
 <!-- Socials -->
