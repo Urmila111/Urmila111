@@ -16,11 +16,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Girl coding" width="320" />
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Female coder" width="320" />
-</p>
-
-
 
 <!-- Socials -->
 <p align="center">
@@ -40,7 +35,7 @@
 <h2 align="center">🧰 Technology Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,vercel,git,linux,python,typescript,docker,figma,postgresql,tailwind&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,git,linux,python,typescript,tailwind&perline=10" />
   </a>
 </p>
 
