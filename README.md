@@ -9,12 +9,12 @@
 </a>
 
 <!-- Intro -->
-<h3 align="center">
+<h2 align="center">
   <samp>
     👋 Hi there! Welcome to 
     <b><a target="_blank" href="https://www.linkedin.com/in/urmila-basnet/">Urmila Basnet</a>'s Profile</b>
   </samp>
-</h3>
+</h>
 
 
 <p align="center">
@@ -32,7 +32,7 @@
 </p>
 
 ---
-<h2 align="center">⚙️ Technology Stack</h2>
+<h1 align="center">⚙️ Technology Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,git,python&perline=10" alt="Tech stack icons" />
