@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=F700C6&center=true&vCenter=true&repeat=true&width=500&lines=💻+Backend+Developer;💰+Fintech+Enthusiast" alt="Typing SVG" />
-</h1>
+
 
 <a href="https://komarev.com/ghpvc/?username=Urmila111">
   <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=F700FF&style=flat" alt="Profile visitor count" />
