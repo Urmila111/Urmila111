@@ -13,11 +13,12 @@
         </samp>
 </h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/By0gLwbUO7U7o/giphy.gif" alt="Woman coding" width="320" />
-</p>
 
-<!-- Socials -->
+
+<!-- S<p align="center">
+  <img src="https://i.pinimg.com/originals/0d/13/8c/0d138cfa93d78b32ed2a0388b130b6a0.gif" alt="Girl working on laptop" width="280" />
+</p>
+ocials -->
 <p align="center">
  <a href="https://www.linkedin.com/in/urmila-basnet/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
