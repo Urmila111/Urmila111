@@ -78,5 +78,14 @@
   </a>
 
 </div>
+<!-- 🌈 GitHub Contribution Calendar -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Urmila111&theme=github_dark&utcOffset=+5.75" alt="Urmila's productive time card" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-calendar.vercel.app/api?username=Urmila111&color=7f3fbf&bg=0D1117&radius=8&locale=en" alt="GitHub Contribution Calendar" />
+</p>
+
 
 ![Urmila's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&custom_title=Urmila%20Basnet's%20GitHub%20Activity&bg_color=0D1117&color=9F7AEA&line=9F7AEA&point=FBB6CE&area_color=6B46C1&title_color=E9D8FD&hide_border=true&area=true&hide_yearly_summary=false)
