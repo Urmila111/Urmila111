@@ -4,13 +4,9 @@
   </a>
 </p>
 
-
-
 <a href="https://komarev.com/ghpvc/?username=Urmila111" target="_blank">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=FF6EC7&style=flat-square" alt="Profile visitor count" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=FF69B4&style=for-the-badge" alt="Profile visitor count" />
 </a>
-
-
 
 <!-- Intro -->
 <h3 align="center">
