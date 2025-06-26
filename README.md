@@ -13,10 +13,12 @@
 
 <!-- Intro -->
 <h3 align="center">
-        <samp>&gt; Welcome to 
-                <b><a target="_blank" href="https://www.linkedin.com/in/urmila-basnet/">Urmila Basnet</a>'s Profile</b>
-        </samp>
+  <samp>
+    👋 Hi there! Welcome to 
+    <b><a target="_blank" href="https://www.linkedin.com/in/urmila-basnet/">Urmila Basnet</a>'s Profile</b>
+  </samp>
 </h3>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Girl coding" width="320" />
@@ -26,9 +28,6 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/urmila-basnet/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
- <a href="https://twitter.com/_urmila_basnet" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
  <a href="https://www.facebook.com/urmila.basnet.71" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -40,7 +39,7 @@
 <h2 align="center">🧰 Technology Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,git,linux,python,typescript,tailwind&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,git,python&perline=10" />
   </a>
 </p>
 
