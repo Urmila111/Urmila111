@@ -13,10 +13,10 @@
         </samp>
 </h3>
 
-<!-- 🎵 Spotify or any custom visual -->
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=DXCd7Moy3to&list=RDDXCd7Moy3to&start_radio=1"><img src="https://raw.githubusercontent.com/trinib/spotify-github-profile/master/img/default.svg" height="130" width="300" /></a>
+  <img src="https://img.shields.io/badge/My%20Mission-Building%20powerful%20backend%20systems%20for%20social%20impact-purple?style=for-the-badge&logo=target" />
 </p>
+
 
 <!-- Socials -->
 <p align="center">
