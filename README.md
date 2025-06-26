@@ -41,32 +41,40 @@
 
 ---
 
+<!-- 🔥 GitHub Streak Stats -->
 <p align="center">
   <a href="https://github.com/Urmila111">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Urmila111&theme=radical&border=7F3FBF&background=0D1117" alt="Urmila's GitHub streak" />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Urmila111&theme=react&background=0D1117&border=39FF14&ring=00FFFF&currStreakLabel=00FFFF&sideLabels=F8D866&fire=F85D7F"
+      alt="Urmila's GitHub Streak"
+    />
   </a>
 </p>
 
+<!-- 🧩 GitHub Profile Summary -->
 <p align="center">
   <a href="https://github.com/Urmila111">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urmila111&theme=radical" alt="Urmila's GitHub Summary" />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urmila111&theme=github_dark"
+      alt="Urmila's GitHub Summary"
+    />
   </a>
 </p>
+
 
 <div align="center">
-
   <a href="https://github.com/Urmila111">
     <img 
       alt="Urmila's GitHub Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&hide_rank=true&hide_title=false&theme=react&border_color=39FF14&bg_color=0D1117&title_color=00FFFF&icon_color=F8D866"
-      height="192px" width="49.5%" />
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&hide_rank=true&theme=react&border_color=39FF14&bg_color=0D1117&title_color=00FFFF&icon_color=F8D866"
+      height="192px" width="49%" style="margin-right: 1%" />
   </a>
 
   <a href="https://github.com/Urmila111">
     <img 
       alt="Urmila's Top Languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=39FF14&bg_color=0D1117&title_color=00FFFF&icon_color=F8D866"
-      height="192px" width="49.5%" />
+      height="192px" width="49%" />
   </a>
 
 </div>
