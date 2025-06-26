@@ -61,19 +61,15 @@
 </p>
 
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Urmila111">
-    <img 
-      alt="Urmila's GitHub Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&hide_rank=true&theme=react&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&icon_color=FFA500"
-      height="192px" width="49.5%" style="margin-right: 1%" />
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
   </a>
-
   <a href="https://github.com/Urmila111">
     <img 
       alt="Urmila's Top Languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=39FF14&bg_color=0D1117&title_color=00FFFF&icon_color=F8D866"
-      height="192px" width="49.5%" />
+      height="192px" width="49%" />
   </a>
 
 </div>
