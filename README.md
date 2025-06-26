@@ -66,11 +66,10 @@
     <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
   </a>
   <a href="https://github.com/Urmila111">
-    <img 
-      alt="Urmila's Top Languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=39FF14&bg_color=0D1117&title_color=00FFFF&icon_color=F8D866"
-      height="192px" width="49%" />
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
   </a>
+</p>
+
 
 </div>
 </br>
