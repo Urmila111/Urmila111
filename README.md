@@ -14,9 +14,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=600&height=50&lines=Transforming+Code+Into+Impact...;Backend+%7C+Finance+%7C+Cybersecurity+%7C+AI" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/10hO3rDNqqg2Xe/giphy.gif" alt="Pixel girl coding" width="320" />
 </p>
-
 
 <!-- Socials -->
 <p align="center">
