@@ -6,9 +6,10 @@
 
 
 
-<a href="https://komarev.com/ghpvc/?username=Urmila111">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=F700FF&style=flat" alt="Profile visitor count" />
+<a href="https://komarev.com/ghpvc/?username=Urmila111" target="_blank">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=FF6EC7&style=flat-square" alt="Profile visitor count" />
 </a>
+
 
 
 <!-- Intro -->
