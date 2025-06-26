@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Urmila111">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=500&lines=💻+Backend+Developer;💰+Fintech+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=💻+Backend+Developer;💰+Fintech+Enthusiast" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Girl coding" width="320" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Girl coding" width="400" />
 </p>
 
 <!-- Socials -->
