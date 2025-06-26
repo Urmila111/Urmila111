@@ -41,15 +41,17 @@
 
 ---
 
-<!-- 🔥 GitHub Streak Stats -->
+<!-- 🔥 GitHub Streak Stats (Advanced) -->
 <p align="center">
   <a href="https://github.com/Urmila111">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=Urmila111&theme=react&background=0D1117&border=39FF14&ring=00FFFF&currStreakLabel=00FFFF&sideLabels=F8D866&fire=F85D7F"
       alt="Urmila's GitHub Streak"
+      width="90%"
     />
   </a>
 </p>
+
 
 <!-- 🧩 GitHub Profile Summary -->
 <p align="center">
