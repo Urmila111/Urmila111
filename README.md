@@ -50,19 +50,6 @@
   </a>
 </p>
 
-
-
-<!-- 🧩 GitHub Profile Summary -->
-<p align="center">
-  <a href="https://github.com/Urmila111">
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urmila111&theme=github_dark"
-      alt="Urmila's GitHub Summary"
-    />
-  </a>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/Urmila111">
     <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
