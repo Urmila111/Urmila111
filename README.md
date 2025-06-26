@@ -71,7 +71,6 @@
       src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&hide_rank=true&theme=react&border_color=FF69B4&bg_color=0D1117&title_color=FF69B4&icon_color=FFA500"
       height="192px" width="49.5%" style="margin-right: 1%" />
   </a>
-</div>
 
   <a href="https://github.com/Urmila111">
     <img 
