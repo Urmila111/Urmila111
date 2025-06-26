@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://komarev.com/ghpvc/?username=Urmila111" target="_blank">
-  <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=FF69B4&style=for-the-badge" alt="Profile visitor count" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Urmila111&label=Visitors&color=20C997&style=for-the-badge" alt="Profile visitor count" />
 </a>
 
 <!-- Intro -->
