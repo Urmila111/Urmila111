@@ -43,13 +43,6 @@
 
 ---
 
-<!-- 🔥 GitHub Profile Summary -->
-<p align="center">
-  <a href="https://github.com/Urmila111">
-    <img src="https://github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=radical" alt="Urmila's GitHub Stats" />
-  </a>
-</p>
-
 <!-- GitHub Stats + Top Languages -->
 <p align="center">
   <a href="https://github.com/Urmila111">
