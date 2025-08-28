@@ -64,6 +64,4 @@
 </div>
 </br>
 
-![Urmila's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&custom_title=Urmila%20Basnet's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-![](https://activity-graph.herokuapp.com/graph?username=Urmila111&custom_title=Urmila%27s%20Contribution%20Graph&theme=react-dark)
+![Urmila's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&theme=react-dark&t=1)
