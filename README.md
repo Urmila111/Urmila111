@@ -9,15 +9,14 @@
 </a>
 
 <!-- Intro -->
-<p>
 <h2 align="center">
   <samp>
     👋 Hi there! Welcome to 
     <b><a target="_blank" href="https://www.linkedin.com/in/urmila-basnet/">Urmila Basnet</a>'s Profile</b>
   </samp>
-</h>
-  </p>
-</br>
+</h2>
+
+<br/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Girl coding" width="450" />
@@ -34,6 +33,7 @@
 </p>
 
 ---
+
 <h1 align="center">⚙️ Technology Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
@@ -43,25 +43,25 @@
 
 ---
 
-<!-- 🔥 GitHub Streak Stats (Advanced) -->
+<!-- 🔥 GitHub Profile Summary -->
 <p align="center">
   <a href="https://github.com/Urmila111">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urmila111&theme=radical" alt="GitHub Profile Summary" />
   </a>
 </p>
 
+<!-- GitHub Stats + Top Languages -->
 <p align="center">
   <a href="https://github.com/Urmila111">
     <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
   </a>
   <a href="https://github.com/Urmila111">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
-</a>
-
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+  </a>
 </p>
 
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
 
-</div>
-</br>
-
-![Urmila's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Urmila111&theme=react-dark&t=1)
