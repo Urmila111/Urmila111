@@ -46,17 +46,17 @@
 <!-- 🔥 GitHub Profile Summary -->
 <p align="center">
   <a href="https://github.com/Urmila111">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Urmila111&theme=radical" alt="GitHub Profile Summary" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=radical" alt="Urmila's GitHub Stats" />
   </a>
 </p>
 
 <!-- GitHub Stats + Top Languages -->
 <p align="center">
   <a href="https://github.com/Urmila111">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Urmila111&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
   </a>
   <a href="https://github.com/Urmila111">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Urmila111&langs_count=8&layout=compact&theme=react&count_private=true&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="48%" />
   </a>
 </p>
 
