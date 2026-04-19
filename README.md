@@ -24,12 +24,10 @@
 
 <!-- Socials -->
 <p align="center">
- <a href="https://www.linkedin.com/in/urmila-basnet/" target="_blank">
+ <a href="https://www.linkedin.com/in/urmila-basnet-b2456a241?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>
- <a href="https://www.facebook.com/urmila.basnet.71" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=facebook&logoColor=white" />
- </a>
+ 
 </p>
 
 ---
